@@ -5,7 +5,7 @@ A modern, responsive e-commerce product dashboard built with React, TypeScript, 
 ## 📸 Screenshots
 
 ### Dashboard View
-![Dashboard](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Dashboard+View)
+![Dashboard]([https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Dashboard+View](https://grim-plum-ynwgbmg0bf.edgeone.app/screencapture-localhost-5173-2025-10-24-18_03_53.png)
 
 The dashboard provides comprehensive business analytics including:
 - Revenue and order statistics
