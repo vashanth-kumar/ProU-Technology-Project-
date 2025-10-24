@@ -23,6 +23,12 @@ Browse products with:
 - Real-time search
 - Interactive product cards
 
+## Screen Recording
+
+https://github.com/user-attachments/assets/de17e5c4-6f89-4993-ae5a-f62c3c4a92b2
+
+
+
 ## ✨ Features
 
 ### 🛍️ Product Browsing
