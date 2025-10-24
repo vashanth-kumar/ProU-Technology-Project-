@@ -360,8 +360,8 @@ This project is created for assessment purposes.
 ## 📞 Contact
 
 For any questions or clarifications, please contact:
-- Email: vasudharini.s@prou.com.au
-- Email: pavithra.mannar@prou.com.au
+- Email: vashanthakumarks2004@gmail.com
+
 
 ---
 
